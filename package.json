@@ -1,0 +1,22 @@
+{
+  "name": "serialize-edn",
+  "version": "0.1.0",
+  "description": "An EDN serializer for JavaScript",
+  "keywords": ["EDN","serialize","write","encode","stringify"],
+  "dependencies": {
+    "method": "jkroso/method"
+  },
+  "devDependencies": {
+    "assert": "jkroso/assert",
+    "serve": "jkroso/serve",
+    "hydro-html": "*",
+    "hydro-bdd": "*",
+    "hydro-dot": "*",
+    "hydro": "*",
+    "jsmd": "*"
+  },
+  "repository": "git://github.com/jkroso/serialize-edn.git",
+  "author": "Jake Rosoman",
+  "files": ["index.js"],
+  "license": "MIT"
+}
